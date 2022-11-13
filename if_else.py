@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 import math
 import os
 import random
